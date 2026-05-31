@@ -32,6 +32,9 @@ ipython_config.py
 .jupyter/
 .jupyter_ystore.db
 
+# CatBoost training artifacts
+catboost_info/
+
 # Virtual Environment
 venv/
 env/
