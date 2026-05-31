@@ -28,6 +28,10 @@ wheels/
 profile_default/
 ipython_config.py
 
+# Jupyter MCP / collaborative server artifacts
+.jupyter/
+.jupyter_ystore.db
+
 # Virtual Environment
 venv/
 env/
